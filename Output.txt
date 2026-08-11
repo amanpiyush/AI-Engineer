@@ -1,1 +1,3 @@
-What is your Name ? /nHello  Alex
+Enter the x : 
+Enter the y : 
+A is greater
