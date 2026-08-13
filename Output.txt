@@ -1,5 +1,6 @@
-Meow
-Meow
-Meow
-Meow
-Meow
+Enter the N : 
+[]
+[]
+[]
+[]
+[]
